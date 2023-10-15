@@ -1,0 +1,8 @@
+{
+  "type":"module",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "prompt-sync": "^4.2.0",
+    "qr-image": "^3.2.0"
+  }
+}
